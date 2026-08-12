@@ -5,7 +5,7 @@
 #
 
 Desenvolvedor formado em Ciência da Computação, apaixonado por tecnologia e sempre buscando transformar ideias em código e evoluir a cada projeto.
- 
+
 #
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
@@ -16,33 +16,36 @@ Desenvolvedor formado em Ciência da Computação, apaixonado por tecnologia e s
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/thiago-castro-720089226/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/thiagols__castro/)
 
+<h3 align="left">💡 Tecnologias</h3>
 
-<h3 align="left">💡 Tecnologias com as quais trabalho</h3>
-
-<!-- <img 
+<!-- 
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
+
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+-->
 
 <img 
     align="left" 
@@ -50,7 +53,7 @@ Desenvolvedor formado em Ciência da Computação, apaixonado por tecnologia e s
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <img
@@ -73,8 +76,8 @@ Desenvolvedor formado em Ciência da Computação, apaixonado por tecnologia e s
 
 <img
     align="left"
-    alt="Sql"
-    title="Sql"
+    alt="SQL"
+    title="SQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
@@ -83,25 +86,12 @@ Desenvolvedor formado em Ciência da Computação, apaixonado por tecnologia e s
 <br/>
 <br/>
 
-<h3 align="left">📈 Evoluindo a cada commit</h3>
+<h3 align="left">🚀 Atualmente</h3>
 
 <p>
-  <img 
-    align="left" 
-    alt="📈 Evoluindo a cada commit" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Thiago-Daniel&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Evoluindo%20a%20cada%20commit"
-  />
-</p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Thiago-Daniel&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
-
+  💻 Delphi & SQL Server<br>
+  🐍 Python<br>
+  📱 Flutter & Dart
 </p>
 
 <p align="center">
