@@ -77,10 +77,10 @@ Desenvolvedor formado em Ciência da Computação, apaixonado por tecnologia e s
 <img
     align="left"
     alt="SQL"
-    title="SQL"
+    title="SQL Server"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 
 <br/>
